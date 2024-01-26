@@ -6,7 +6,7 @@ package week3;
 
 /**
  *
- * @author bajaj
+ * @author  Nitesh bajaj
  */
 public class Week3 {
 
